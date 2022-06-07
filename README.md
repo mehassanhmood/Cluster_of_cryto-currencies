@@ -12,6 +12,6 @@
 8. In the next step we used 'total coins mined' and 'total supply' of the coins to make a scatter plot , after scaling the two data.\
 ![alt text](scatter_plot.jpg)
 9. Finally, we presented the data as a plotted dataframe , that includes trade-able crypto currencies.
-![alt text](tradeable_crypto.jpg)
+![alt text](tradeable_crytpo.jpg)
 10. To reiterate following are the total number of trade-able crypto currencies.
 ![alt text](total_number.jpg)
