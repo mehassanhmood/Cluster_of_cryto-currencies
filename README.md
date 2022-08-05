@@ -1,4 +1,4 @@
-# unit13-AWS--HomeWork
+# Amazon Web Services
 #### In order to cluster all the trade able crypto currencies , following steps were taken :
 1. Importing all the necessary libraires and dependencies.
 2. Retreiving the data in this case form the resource file.
